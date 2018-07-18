@@ -56,6 +56,8 @@ for i, imgpath in enumerate(imagepaths):
     # stacked2d = np.hstack((gray, opening))
     stacked3d = np.hstack((bgrimg, bgrimgo))
 
+    cv2.imwrite("output{}.png".format(i), stacked3d)
+
     # cv2.imshow("filters", stacked2d)
     cv2.imshow("finals", stacked3d)
 

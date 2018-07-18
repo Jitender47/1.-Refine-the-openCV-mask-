@@ -23,7 +23,7 @@ for i, imgpath in enumerate(imagepaths):
 
     # THRESHOLDING
     # ret, thresh = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY+cv2.THRESH_OTSU)
-    ret, thresh = cv2.threshold(gray, 100, 255, cv2.THRESH_BINARY)
+    ret, thresh = cv2.threshold(gray, 150, 255, cv2.THRESH_BINARY)
 
     # noise removal
     kernel = np.ones((3,3), np.uint8)

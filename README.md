@@ -7,7 +7,7 @@ __Requirements:__
   + cv2 (OpenCV)
  
 __Concepts used:__
-  *Thresholding
-  *Morphology
-  *Distance Transform
-  *Watershed algorithm
+  * Thresholding
+  * Morphology
+  * Distance Transform
+  * Watershed algorithm

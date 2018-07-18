@@ -12,3 +12,7 @@ __Concepts used:__
   * Morphology
   * Distance Transform
   * Watershed algorithm
+  
+__output:__
+
+![output1](outdir/output1.png)

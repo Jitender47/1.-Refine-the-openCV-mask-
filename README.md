@@ -13,6 +13,6 @@ __Concepts used:__
   * Distance Transform
   * Watershed algorithm
   
-__output:__
+__output: (Left image is output with boundaries marked | Right image is input)__
 
-![output1](outdir/output1.png)
+![output1](outdir/output1.png "Image1")

@@ -1,3 +1,10 @@
+"""
+Title: Rooftops detection in Google Maps Image for savera.ai
+Author: Jitender Singh Virk (Virksaab)
+Date created: 17 July, 2018
+Last Modified: 26 July, 2018
+"""
+
 import numpy as np
 import cv2
 import os
